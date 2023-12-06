@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dimaspermana293" alt="dimaspermana293" /></a> </p>
 
-- 🔭 I’m currently working on **freelancer web developer**
+- 🔭 I’m currently working on **freelancer Frontend Web and Mobile**
 
-- 🌱 I’m currently learning **Android, Data Science, Augmented Reality**
+- 🚀 I’m currently learning **Android, Web App, Augmented Reality, and Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dimaspermana293](https://github.com/Dimaspermana293)
 
@@ -14,9 +14,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dimaspermana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dimaspermana" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dimaspermanauty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dimaspermanauty/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dimaspmna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dimaspmna/" height="30" width="40" /></a>
 <a href="https://instagram.com/dmspmnaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dmspmnaa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kos koding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kos koding" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/bantukoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Bantu Koding" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

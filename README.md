@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimas Permana</h1>
-<h3 align="center">A passionate web developer and python data science</h3>
+<h3 align="center">Mobile and Frontend Developer | Content Creator Programming👨🏻‍💻</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dimaspermana293" alt="dimaspermana293" /></a> </p>
 

@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Kotlin](https://img.shields.io/badge/Kotlin-000?logo=kotlin&logoColor=FFF)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/Java-000?&logo=openjdk&logoColor=ED8B00)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Dart](https://img.shields.io/badge/Dart-000?logo=dart)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)

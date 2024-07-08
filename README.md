@@ -1,4 +1,4 @@
-[![](https://github.com/Dimaspermana293/Dimaspermana293/blob/main/profile.gif)]<!-- If you want the template for my gif, email me! -->
+![](https://github.com/Dimaspermana293/Dimaspermana293/blob/main/profile.gif)<!-- If you want the template for my gif, email me! -->
 
 ### Languages
 

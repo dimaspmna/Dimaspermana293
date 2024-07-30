@@ -1,18 +1,13 @@
 # 💫 About Me:
 🧑🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br>👨🏻‍🏫 Studied Computer Science at the Yogyakarta Technology University, Yogyakarta<br>🎨 Making videos about Computer Science, tech, and productivity on YouTube<br>💭 Currently learning about machine learning!
 
-
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/dimaspermana8) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dimpmna) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dimaspmna) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@gapapakoding) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codedimas) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dimaspermana293&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dimaspermana293&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dimaspermana293&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 💻 Featured YouTube Videos
+# 💻 My Youtube Videos
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
 <!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
@@ -25,8 +20,9 @@
 [![Tutorial RapidMiner 2022 | Instalasi RapidMiner](https://ytcards.demolab.com/?id=IKex1YKvg4c&title=Tutorial+RapidMiner+2022+%7C+Instalasi+RapidMiner&lang=en&timestamp=YOUR_UNIX_TIMESTAMP_HERE&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1140 "Tutorial RapidMiner 2022 | Instalasi RapidMiner")](https://youtu.be/IKex1YKvg4c?si=E1Pzg6oiXgWnEFZI)
 [![Rapid Miner | Klasifikasi Data dengan Naive Bayes Classifier](https://ytcards.demolab.com/?id=4LwSjcEXQsY&title=Rapid+Miner+%7C+Klasifikasi+Data+dengan+Naive+Bayes+Classifier&lang=en&timestamp=YOUR_UNIX_TIMESTAMP_HERE&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=420 "Rapid Miner | Klasifikasi Data dengan Naive Bayes Classifier")](https://youtu.be/4LwSjcEXQsY?si=EBle1_bTuNThWbi8)
 
-
-
-<!-- END YOUTUBE-CARDS -->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dimaspermana293&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dimaspermana293&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dimaspermana293&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
